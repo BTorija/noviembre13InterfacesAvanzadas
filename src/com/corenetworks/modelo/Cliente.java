@@ -1,4 +1,4 @@
-package modelo;
+package com.corenetworks.modelo;
 
 public class Cliente {
     private String nombre;

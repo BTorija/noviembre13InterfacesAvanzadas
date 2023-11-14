@@ -1,9 +1,9 @@
-package Presentacion;
+package com.corenetworks.Presentacion;
 
-import modelo.AccesoDesarrollo;
-import modelo.AccesoProduccion;
-import modelo.Cliente;
-import modelo.ClienteDao;
+import com.corenetworks.modelo.AccesoDesarrollo;
+import com.corenetworks.modelo.AccesoProduccion;
+import com.corenetworks.modelo.Cliente;
+import com.corenetworks.modelo.ClienteDao;
 
 public class ProbarClienteDao {
     public static void main(String[] args) {

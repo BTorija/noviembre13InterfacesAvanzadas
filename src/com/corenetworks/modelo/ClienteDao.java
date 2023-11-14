@@ -1,4 +1,4 @@
-package modelo;
+package com.corenetworks.modelo;
 
 public class ClienteDao {
     private IDAO conexion;
